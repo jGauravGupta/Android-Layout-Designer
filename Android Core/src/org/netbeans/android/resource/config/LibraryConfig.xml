@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <category name="Containers">
+        <widget class="org.netbeans.android.designer.component.draw.VerticalLinearLayout" />
+        <widget class="org.netbeans.android.designer.component.draw.HorizontalLinearLayout" />
+    </category>
+    <category name="Controls">
+        <widget class="org.netbeans.android.designer.component.draw.Button" />
+        <widget class="org.netbeans.android.designer.component.draw.EditText" />
+        <widget class="org.netbeans.android.designer.component.draw.TextView" />
+    </category>
+</library>

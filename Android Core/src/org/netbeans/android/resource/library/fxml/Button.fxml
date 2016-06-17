@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.*?>
+<org.netbeans.android.designer.component.draw.Button text="Button" >
+<!--        <padding>
+        <Insets top="4" left="20" right="20" bottom="6" ></Insets>
+    </padding>   -->
+</org.netbeans.android.designer.component.draw.Button>

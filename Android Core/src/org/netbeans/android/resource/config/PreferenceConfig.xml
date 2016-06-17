@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+    <container placeholder="Drag android layouts here..." icon="org/netbeans/android/resource/container/icon/ICON.png">
+        <background name="Android" file="org/netbeans/android/resource/container/background/IMG4.jpg" />
+        <background name="Fog" file="org/netbeans/android/resource/container/background/IMG1.jpg" />
+        <background name="Circle" file="org/netbeans/android/resource/container/background/IMG5.jpg" />
+        <background name="Dark Grey Wood" file="org/netbeans/android/resource/container/background/IMG6.jpg" />
+        <background name="Grass" file="org/netbeans/android/resource/container/background/IMG7.jpg" />
+        <background name="Black Wood" file="org/netbeans/android/resource/container/background/IMG8.jpg" />
+        <background name="Sky" file="org/netbeans/android/resource/container/background/IMG9.jpg" />
+        <background name="White" file="org/netbeans/android/resource/container/background/IMG10.jpg" />
+    </container>   
+</preferences>

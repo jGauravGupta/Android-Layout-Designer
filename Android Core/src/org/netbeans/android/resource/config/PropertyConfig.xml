@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<components>
+    <component class="org.netbeans.android.designer.component.draw.VerticalLinearLayout" >
+        <properties>
+            <custom id="resourceId" name="Resource Id" class="String"   >
+                <path section="Properties" subSection="General" index="1" />
+            </custom> 
+            <custom id="resourcePadding" name="Padding" class="Insets" >
+                <path section="Layout" subSection="Internal" index="2" />
+            </custom>
+            <custom id="margin" name="Margin" class="Insets" residenceClass="javafx.scene.layout.HBox" >
+                <path section="Layout" subSection="Internal" index="1" />
+            </custom>
+            <custom id="margin" name="Margin" class="Insets" residenceClass="javafx.scene.layout.VBox"  >
+                <path section="Layout" subSection="Internal" index="1" />
+            </custom> 
+<!--            <custom id="backgroundImage" name="Background Image" class="Image"   >
+                <path section="Properties" subSection="Internal" index="1" />
+            </custom>-->
+        </properties>
+    </component> 
+    <component class="org.netbeans.android.designer.component.draw.HorizontalLinearLayout" >
+        <properties>
+            <custom id="resourceId" name="Resource Id" class="String"   >
+                <path section="Properties" subSection="General" index="1" />
+            </custom> 
+            <custom id="resourcePadding" name="Padding" class="Insets" >
+                <path section="Layout" subSection="Internal" index="2" />
+            </custom>
+            <custom id="margin" name="Margin" class="Insets" residenceClass="javafx.scene.layout.HBox" >
+                <path section="Layout" subSection="Internal" index="1" />
+            </custom>
+            <custom id="margin" name="Margin" class="Insets" residenceClass="javafx.scene.layout.VBox"  >
+                <path section="Layout" subSection="Internal" index="1" />
+            </custom> 
+        </properties>
+    </component>  
+    <component class="org.netbeans.android.designer.component.draw.EditText" >
+        <properties>
+            <custom id="resourceId" name="Resource Id" class="String"   >
+                <path section="Properties" subSection="General" index="1" />
+            </custom> 
+            <basic id="promptText" /> 
+            <basic id="text" /> 
+            <custom id="resourcePadding" name="Padding" class="Insets" >
+                <path section="Layout" subSection="Internal" index="2" />
+            </custom>
+            <custom id="margin" name="Margin" class="Insets" residenceClass="javafx.scene.layout.HBox" >
+                <path section="Layout" subSection="Internal" index="1" />
+            </custom>
+            <custom id="margin" name="Margin" class="Insets" residenceClass="javafx.scene.layout.VBox"  >
+                <path section="Layout" subSection="Internal" index="1" />
+            </custom>
+        </properties>
+    </component>  
+        <component class="org.netbeans.android.designer.component.draw.TextView" >
+        <properties>
+            <custom id="resourceId" name="Resource Id" class="String"   >
+                <path section="Properties" subSection="General" index="1" />
+            </custom> 
+            <basic id="text" /> 
+            <custom id="resourcePadding" name="Padding" class="Insets" >
+                <path section="Layout" subSection="Internal" index="2" />
+            </custom>
+            <custom id="margin" name="Margin" class="Insets" residenceClass="javafx.scene.layout.HBox" >
+                <path section="Layout" subSection="Internal" index="1" />
+            </custom>
+            <custom id="margin" name="Margin" class="Insets" residenceClass="javafx.scene.layout.VBox"  >
+                <path section="Layout" subSection="Internal" index="1" />
+            </custom>
+        </properties>
+    </component>  
+    <component class="org.netbeans.android.designer.component.draw.Button" >
+        <properties>
+            <custom id="resourceId" name="Resource Id" class="String"   >
+                <path section="Properties" subSection="General" index="1" />
+            </custom> 
+            <basic id="text" /> 
+            <custom id="resourcePadding" name="Padding" class="Insets" >
+                <path section="Layout" subSection="Internal" index="2" />
+            </custom>
+            <custom id="margin" name="Margin" class="Insets" residenceClass="javafx.scene.layout.HBox" >
+                <path section="Layout" subSection="Internal" index="1" />
+            </custom>
+            <custom id="margin" name="Margin" class="Insets" residenceClass="javafx.scene.layout.VBox"  >
+                <path section="Layout" subSection="Internal" index="1" />
+            </custom> 
+        </properties>
+    </component>  
+</components>
+    

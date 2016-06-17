@@ -1,0 +1,27 @@
+.text-field {
+    -fx-background-color: #DEDEDE , white , white;
+    -fx-background-insets: 0 -1 -1 -1, 0 0 0 0, 0 -1 3 -1;
+}
+
+.text-field:focused {
+    -fx-background-color: #BDBDBD , white , white;
+    -fx-background-insets: 0 -1 -1 -1, 0 0 0 0, 0 -1 3 -1;
+}
+
+.button {
+    -fx-font-size: 13px;
+    -fx-font-family: "Calibri";
+    -fx-base: #00a7d4;
+    -fx-background: #e5f3f6;
+    -fx-focus-color: #0093FF;
+    -fx-control-inner-background: #FFFFFF;
+    -fx-text-base-color: #222222;
+    -fx-background-color:#D6D6D6;
+    -fx-inner-border: linear-gradient(to bottom, derive(-fx-color,73.6%) 0%, derive(-fx-color,29.200000000000003%) 100%);
+    -fx-body-color: linear-gradient( to bottom, derive(-fx-color, 34.0%) 0%, derive(-fx-color, -18.0%) 100%);
+    -fx-background-insets: 0px;
+    -fx-background-radius: 0px;
+/*    -fx-padding: 0.166667em 1.6em 0.25em 1.6em; // 2 10 3 10 */
+    -fx-text-fill: -fx-text-base-color;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 3, 0.0 , 0 , 1 );
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import org.netbeans.android.designer.component.draw.VerticalLinearLayout?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.*?>
+<VerticalLinearLayout spacing="1" fillWidth="false"  prefWidth="200" prefHeight="100"  >
+<!--    <padding>
+        <Insets top="2" left="2" right="2" bottom="2" ></Insets>
+    </padding>    -->
+</VerticalLinearLayout>

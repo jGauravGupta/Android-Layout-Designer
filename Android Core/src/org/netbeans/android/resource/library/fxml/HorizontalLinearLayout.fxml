@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import org.netbeans.android.designer.component.draw.HorizontalLinearLayout?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.*?>
+<HorizontalLinearLayout spacing="1" fillHeight="false" prefWidth="200" prefHeight="100"  >
+<!--    <padding>
+        <Insets top="2" left="2" right="2" bottom="2" ></Insets>
+    </padding>    -->
+</HorizontalLinearLayout>
+<!--<HorizontalLinearLayout HBox.hgrow="ALWAYS"  />-->
